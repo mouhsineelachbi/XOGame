@@ -15,7 +15,7 @@ export class SquareComponent {
   @Input() value: 'X' | 'O';
 
   constructor () {
-    this.value = null ;
+
   }
 
 }
